@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.csproj.CoreCompileInputs.cache
