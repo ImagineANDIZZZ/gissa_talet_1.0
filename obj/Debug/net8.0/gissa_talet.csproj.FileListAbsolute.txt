@@ -2,3 +2,14 @@ C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.Generat
 C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.AssemblyInfoInputs.cache
 C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.AssemblyInfo.cs
 C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.sourcelink.json
+C:\Users\Admin\Documents\GitHub\gissa_talet\bin\Debug\net8.0\gissa_talet.exe
+C:\Users\Admin\Documents\GitHub\gissa_talet\bin\Debug\net8.0\gissa_talet.deps.json
+C:\Users\Admin\Documents\GitHub\gissa_talet\bin\Debug\net8.0\gissa_talet.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\gissa_talet\bin\Debug\net8.0\gissa_talet.dll
+C:\Users\Admin\Documents\GitHub\gissa_talet\bin\Debug\net8.0\gissa_talet.pdb
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.dll
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\refint\gissa_talet.dll
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.pdb
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\gissa_talet.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\gissa_talet\obj\Debug\net8.0\ref\gissa_talet.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gissa_talet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a45f54190e9c6da3611231ad0d715d031dc6b33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c70b731677f4e5d5812188af21a3f0e7d2e8f28")]
 [assembly: System.Reflection.AssemblyProductAttribute("gissa_talet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gissa_talet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
