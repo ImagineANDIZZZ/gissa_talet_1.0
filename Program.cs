@@ -3,12 +3,13 @@ int slump_tal = randomerare.Next(1,100);
   //Ta en gissning
 int gissning = 1;
 Console.WriteLine("gissa ett tal mellan 1 och 100");
-gissning = Convert.ToInt32(Console.ReadLine());
- 
+int antalgissningar=0;
+
 while (slump_tal != gissning)
 {
     gissning = int.Parse(Console.ReadLine());
    //Högt eller lågt
+   antalgissningar ++;
     if (slump_tal < gissning){
     Console.WriteLine("din gissning var usel du försökte inte äns pröva något mindre nästa gång!");
     }
@@ -21,6 +22,7 @@ while (slump_tal != gissning)
   // talet är rätt
     else {
     Console.WriteLine("grattis du gissade rätt tal fuskade du? hur kan du vara så bra!");
+    Console.WriteLine("grattis det tog dig"+ " "+ antalgissningar + " "+ "gissningar");
     }
 
 }
